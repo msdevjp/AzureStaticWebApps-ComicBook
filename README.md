@@ -8,7 +8,7 @@ Read more about how he easily solves his problem with Azure Static Web apps.
 
 ### You can get PDF
 
-[<img src="/Thumbnail.png" width="320px">](AzureStaticWebApps_Fullver.pdf)
+[<img src="https://raw.githubusercontent.com/msdevjp/AzureStaticWebApps-ComicBook/master/Thumbnail.png" width="320px">](https://github.com/msdevjp/AzureStaticWebApps-ComicBook/blob/master/AzureStaticWebApps_Fullver.pdf)
 
 ### Credit
 
