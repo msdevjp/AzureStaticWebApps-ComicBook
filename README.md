@@ -8,7 +8,7 @@ Read more about how he easily solves his problem with Azure Static Web apps.
 
 ### You can get PDF
 
-[Link](url) and ![Image](src)
+[<img src="/Thumbnail.png" width="320px">](AzureStaticWebApps_Fullver.pdf)
 
 ### Credit
 
