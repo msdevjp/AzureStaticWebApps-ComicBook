@@ -20,4 +20,4 @@ Azure Static Web appsを使って彼が問題を簡単に解決した方法の�
 
 ### Credit
 
-These Comic Book is illustrations by Ai Minatogawa, Project owner @suzukin, Kudos so many Microsoft Japan members. 
+These Comic Book is illustrations by [Ai Minatogawa](https://llminatoll.github.io/), Project owner [@suzukin](https://github.com/suzukin), Kudos so many Microsoft Japan members. 
